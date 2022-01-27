@@ -1,0 +1,111 @@
+{
+    "menu": [
+        {
+            "appetizers": [
+                {
+                    "id-dip": "multi-dip",
+                    "ingredients": [
+                        "tortilla chips",
+                        "guacamole",
+                        "salsa",
+                        "bean dip",
+                        "queso"
+                    ],
+                    "description": "Enjoy a multi choice dip selection with all the flavors!",
+                    "id-bites": "sweet potato bites",
+                    "ingredientsList": [
+                        "sweet potatoes",
+                        "salt",
+                        "peper",
+                        "olive oil"
+                    ],
+                    "potato bites": "chunked sweet potato tossed with  olive  oil, salt and peper and baked to perfection"
+                }
+            ]
+        },
+        {
+            "cold sandwiches": [
+                {
+                    "id-Sandwich": "PB&J",
+                    "ingredientsList1": [
+                        "peanut butter",
+                        "jelly",
+                        "bread"
+                    ],
+                    "pb&j": "Enjoy a good ole classic with our yummy pb&j",
+                    "id-tuna": "tuna",
+                    "ingredientsList2": [
+                        "bread",
+                        "tuna fish",
+                        "mayo",
+                        "relish"
+                    ],
+                    "tuna-tastes": "Here is another great classic for your enjoyment"
+                }
+            ]
+        },
+        {
+            "hot sandwiches": [
+                {
+                    "id-hotsandwiches": "breakfast bagel",
+                    "ingredientsList3": [
+                        "toasted bagel",
+                        "egg",
+                        "cheese",
+                        "ham"
+                    ],
+                    "bagel": "Breakfast bagel for breakfast",
+                    "id-grilled": "Grilled Cheese",
+                    "ingredientsList4": [
+                        "bread",
+                        "butter",
+                        "cheese"
+                    ],
+                    "grilled cheese": "Another great classic, our yum grilled cheese"
+                }
+            ]
+        },
+        {
+            "desserts": [
+                {
+                    "id-brownie": "Brownies",
+                    "ingredientsList5": [
+                        "flour",
+                        "coca power",
+                        "sugar",
+                        "egg",
+                        "water"
+                    ],
+                    "brownie": "Our signature homemade brownies",
+                    "id-cookie": "Peanut butter cookies",
+                    "ingredientsList6": [
+                        "flour",
+                        "peanut butter",
+                        "eggs"
+                    ],
+                    "cookie": "freshly baked peanut butter cookies"
+                }
+            ]
+        },
+        {
+            "drinks": [
+                {
+                    "id-lemonade": "pink lemonade",
+                    "ingredientsList7": [
+                        "water",
+                        "sugar",
+                        "lemons",
+                        "strawberries"
+                    ],
+                    "lemonade": "a drink that makes everyone smile",
+                    "id-coffee": "Coffee",
+                    "ingredientsList8": [
+                        "coffee beans",
+                        "water"
+                    ],
+                    "coffee": "The drink beloved by many"
+                }
+            ]
+        }
+    ]
+}
