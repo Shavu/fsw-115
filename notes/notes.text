@@ -1,0 +1,54 @@
+CRUD Acronym :
+!HTTP = rest("Get" , "post" , "put" , "delete"); data transer on the internet.
+!dataBase = CRUD("create" , "read" , "update" , "destroy"); 
+    {4 types of protocols}
+    create: brand new record in the database (POST);
+    read: asking for data from the database (GET);
+    update; if you want to modifiy data (PUT);
+    delete: means to destory a record in the data (delete);
+
+
+Get to Know the Basics of JSON Lesson
+#JSON
+- Javascript object Notation
+- JSON is a data format for transferring data that shares a strong resemblance to a Javascript object. 
+- JSON can be used to transfer:
+    - strings
+    - numbers 
+    - booleans
+    - arrays
+    - objects
+- JSON can be coverted to javascript using the JSON.parse() method.
+- Javascript can be convert to JSON using the JSON.stingify() method.
+
+Rules:
+- MUST USE DOUBLE QUOTES.
+- No trailing come on the last entry in a JSON object. 
+- jsonlint.com - validate your json data. 
+
+
+
+
+// {
+//     "menu": {
+//         "appetizer": [
+//             {
+//                 "id-wings": "mult-wings",
+//                 "ingredients": [
+//                     "lemon pepper",
+//                     "Honey barbecue",
+//                     " Cajun",
+//                     "teriyaki"
+//                 ],
+//                 "description": "Wings cooked low and slow over hickory wood",
+//                 "id-soups": "HomeMade potato soups",
+//                 "ingredientsList": [
+//                     "pepper jack",
+//                     "Red Onins",
+//                     "Potato Cheddar"
+//                 ],
+//                 "aboutSoup": "Thickened both "
+//             }
+//         ]
+//     }
+// }
