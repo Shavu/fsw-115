@@ -1,3 +1,7 @@
+for (var i = 0; i < drinks.length; i++) {
+    drinkList.innerHTML
+}
+
 {
     "drinks": [
         {
