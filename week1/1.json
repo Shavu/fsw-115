@@ -1,0 +1,13 @@
+// {
+//     "name": "Travis Manners",
+//     "age": 52,
+//     "address": {
+//         "street": "5 main St",
+//         "city" ; "NYC"
+//     },
+//     "childen": [
+//         "Amir",
+//         "Jordan",
+//         "Mai"
+//     ]
+// }

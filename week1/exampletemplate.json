@@ -1,0 +1,138 @@
+// JSON: {} are Objects, [] are arrays, “” are strings.
+{
+    "appetizers": [
+        {
+            "name": "",
+            "ingredients": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "description": ""
+        },
+        {
+            "name": "",
+            "ingredients": [
+                "",
+                "",
+                ""
+            ],
+            "description": ""
+        },
+        {
+            "name": "Mussels",
+            "ingredients": [
+                "",
+                "",
+                ""
+            ],
+            "description": ""
+        }
+    ],
+    "cold sandwiches": [
+        {
+            "name": "",
+            "ingredients": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "description": "."
+        },
+        {
+            "name": "h",
+            "ingredients": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "description": ""
+        },
+        {
+            "name": "",
+            "ingredients": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "description": ""
+        }
+    ],
+    "hot sandwiches": [
+        {
+            "name": "",
+            "ingredients": [
+                "",
+                "",
+                ""
+            ],
+            "description": "."
+        },
+        {
+            "name": "",
+            "ingredients": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "description": "."
+        }
+    ],
+    "desserts": [
+        {
+            "name": "",
+            "ingredients": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "description": ""
+        },
+        {
+            "name": "Macaron",
+            "ingredients": [
+                "",
+                "r",
+                "",
+                ""
+            ],
+            "description": "."
+        }
+    ],
+    "drinks": [
+        {
+            "name": "",
+            "ingredients": [
+                "",
+                "",
+                ""
+            ],
+            "description": ""
+        },
+        {
+            "name": "Green Energy Juice",
+            "ingredients": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "description": "."
+        }
+    ]
+}
